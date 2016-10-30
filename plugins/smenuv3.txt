@@ -1,0 +1,26 @@
+[en]
+SMENU_LOADED = [ServerMenu] %d servers has been succesfully loaded & added to ServerMenu..
+SMENU_LEAVE = ***^3 %s ^1si odisiel zahrat na druhy server:^4 %s
+SMENU_FOLLOW = Chces ist za nim? Type^4 /follow^1!
+SMENU_FOLLOWED = ***^3 %s ^1used ^4 /follow ^1and connect to: %s
+SMENU_NEXT = Next
+SMENU_BACK = Back
+SMENU_CLOSE = Close
+
+[sk]
+SMENU_LOADED = [ServerMenu] %d serverov bolo uspesne nacitanych a pridanych do ServerMenu..
+SMENU_LEAVE = ***^3 %s ^1si odisiel zahrat na druhy server:^4 %s
+SMENU_FOLLOW = Chces ist za nim? Napis^4 /follow ^1do chatu!
+SMENU_FOLLOWED = ***^3 %s ^1pouzil prikaz^4 /follow ^1a odisiel na server: %s
+SMENU_NEXT = Dalej
+SMENU_BACK = Navrat
+SMENU_CLOSE = Zatvorit
+
+[cz]
+SMENU_LOADED = [ServerMenu] %d serveru bylo uspesne nactenych a pridanych do ServerMenu..
+SMENU_LEAVE = ***^3 %s ^1si odesel zahrat na druhej server:^4 %s
+SMENU_FOLLOW = Chces jit taky? Napis^4 /follow ^1do chatu!
+SMENU_FOLLOWED = ***^3 %s ^1pouzil prikaz^4 /follow ^1a odesel na server: %s
+SMENU_NEXT = Dale
+SMENU_BACK = Zpatky
+SMENU_CLOSE = Konec
